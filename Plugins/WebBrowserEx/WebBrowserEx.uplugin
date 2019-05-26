@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WebBrowserEx",
+	"Description": "Overwrite \"WebBrowserWidget\" plugin to support Chinese input",
+	"Category": "Widget",
+	"CreatedBy": "GuoJinming",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WebBrowserEx",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
